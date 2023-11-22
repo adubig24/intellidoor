@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Utilisateur/Downloads/test/mlruns/0/16b21dd000a44c64a92a0263beed0b4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b21dd000a44c64a92a0263beed0b4a
+run_name: auspicious-mole-806
+run_uuid: 16b21dd000a44c64a92a0263beed0b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700143207601
+status: 1
+tags: []
+user_id: Utilisateur
